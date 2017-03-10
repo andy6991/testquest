@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Questtest</string>
+    <string name="First">Нажата первая кнопка</string>
+    <string name="Second">Нажата вторая кнопка</string>
+</resources>
